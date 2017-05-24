@@ -229,6 +229,11 @@ body {
     font-size: 25px;
     padding-top: 35px;
 }
+.face{
+    font-size: 27px;
+    font-weight: bold;
+    color: #54c8e0;
+}
 
 .popular {
     margin-bottom: 100px;
